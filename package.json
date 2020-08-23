@@ -14,7 +14,7 @@
     "jest": "^26.4.2",
     "rxjs": "^6.6.2",
     "ts-jest": "^26.2.0",
-    "typescript": "^4.0.2"
+    "typescript": "^3.9.7"
   },
   "jest": {
     "transform": {
